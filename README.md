@@ -6,3 +6,23 @@ g++ -std=c++11 Lab9_Zaidi.cpp -o Lab9 && ./Lab9
 
 
 T 23.5 C
+
+X 23.5 C
+T 2222222 C
+T 23.5 X
+
+
+X 999.0 INVALID
+
+
+
+H 50.0 PCT
+H 50.9 PCT
+H 75.5 PCT
+H 90.5 PCT
+P 1000.0 PSI
+P 805.8 HPA
+P 809.9 HPA
+P 900.0 PSI
+P 990.0 HPA
+T 23.5 C
